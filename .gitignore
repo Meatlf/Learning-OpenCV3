@@ -133,3 +133,5 @@ dmypy.json
 *.PDF
 *.ppt
 *.docx
+
+build/
